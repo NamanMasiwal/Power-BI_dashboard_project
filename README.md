@@ -1,3 +1,2 @@
 # Power-BI_dashboard_project
-This is a power bi end to end project 
-project link 
+Hr_Anlaysis Power BI Project End to End
